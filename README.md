@@ -2,7 +2,7 @@
 Implementação de um Sistema de Cadastro CRUD utilizando o framework React e Material Angular UI, com uma fake API em JSON-server.
 
 
-![](https://img.shields.io/github/languages/top/thiagomms/CRUD-React) ![](https://img.shields.io/badge/Framework-Angular%209-red)
+![](https://img.shields.io/badge/JavaScript-72.4%25-yellow) ![](https://img.shields.io/badge/FrameWork-React-blue)
 
 ## Screenshots
 
