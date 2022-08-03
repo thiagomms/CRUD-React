@@ -1,0 +1,21 @@
+header.header {
+    
+    background-color: rgb(19, 21, 22);
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.9em;
+    color: rgb(209, 205, 199);
+}
+
+
+header.header button {
+    border: 0px ;
+    width: 45px;
+    height: 35px;
+    padding: auto;
+}
